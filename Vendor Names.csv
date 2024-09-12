@@ -1,22 +1,22 @@
-Vendor ID,Vendor Rep,Email Address,Vendor Name,Present,Local
-V01,Kelton Mann,Kelton.Mann@gmail.com,50th Parallel Estate Winery (Kelowna),x,x
-V02,Jordin Cooley,Jordin.Cooley@gmail.com,Air Canada,x,x
-V03,Pierre Hammond,Pierre.Hammond@gmail.com,Aldesta Hotels & Resorts,x,x
-V04,Jonas Michael,Jonas.Michael@gmail.com,BC Hotel Association,x,x
-V05,Hayden Ho,Hayden.Ho@gmail.com,Blue Horizon Hotel,x,x
-V06,Zachery Huff,Zachery.Huff@gmail.com,Corner Collection (Montreal),x,
-V07,Matilda Irwin,Matilda.Irwin@gmail.com,Delta Hotels by Marriott Calgary Downtown,x,
-V08,Jefferson Palmer,Jefferson.Palmer@gmail.com,Discover Saskatoon,x,
-V09,Dayami Kirk,Dayami.Kirk@gmail.com,Event Regina (SK),x,
-V10,Elliot Koch,Elliot.Koch@gmail.com,Four Points by Sheraton & Hampton Inn & Suites by Hilton Kelowna Airport,x,x
-V11,Saul Pennington,Saul.Pennington@gmail.com,Grouse Mountain Resorts,x,x
-V12,Jasper Gonzales,Jasper.Gonzales@gmail.com,"World of Hyatt (Hyatt Regency Vancouver, Hyatt Place Kelowna)",x,x
-V13,Carlee White,Carlee.White@gmail.com,Live Nation,x,x
-V14,Susan Chang,Susan.Chang@gmail.com,Meet in Penticton,x,x
-V15,Charlize Schaefer,Charlize.Schaefer@gmail.com,Pacific Yacht Charters & PYC Catering,x,x
-V16,Michelle Beltran,Michelle.Beltran@gmail.com,Paradox Hotel Vancouver,x,x
-V17,Elijah Bentley,Elijah.Bentley@gmail.com,"The Josie Hotel, Autograph Collection",x,x
-V18,Neil Ali,Neil.Ali@gmail.com,Tourism Kamloops,x,x
-V19,Freddy Harding,Freddy.Harding@gmail.com,Tourism Nanaimo,x,x
-V20,Deja Liu,Deja.Liu@gmail.com,Tourism Whistler,x,x
-V21,Carolina Terrell,Carolina.Terrell@gmail.com,Tourisme Montreal,x,
+Vendor ID,Email Address,COMPANY,ARRIVED,STATUS
+V01,dexter.eulin@paradoxhotels.com,Paradox Hotel Vancouver,x,Local
+V02,gina@tourismnanaimo.com,Tourism Nanaimo,x,Local
+V03,vir.shah@deltahotels.com,Delta Hotels By Marriott Calgary Downtown,x,Not Local
+V04,samantha@bcha.com,BC Hotel Association,x,Local
+V05,karine.huard@cornercollection.com,Corner Collection,x,Not Local
+V06,dharlos@thejosie.com,"The Josie Hotel, Autograph Collection",x,Local
+V07,karen.davy@meetinpenticton.com,Meet in Penticton,x,Local
+V08,alexchartier@livenation.com,Live Nation,x,Local
+V09,dos@bluehorizonhotel.com,Blue Horizon Hotel,x,Local
+V10,orest@stayinregina.com,Events Regina,x,Not Local
+V11,trina.wylie@hyatt.com,Hyatt Regency Vancouver,x,Local
+V12,jennifer.halinda@aldestahotels.com,Aldesta Hotels and Resorts,x,Local
+V13,asoria@discoversaskatoon.com,Discover Saskatoon,x,Not Local
+V14,chase.myhill@aircanada.ca,Air Canada,x,Local
+V15,lduff@tourismwhistler.com,Tourism Whistler,x,Local
+V16,lwade@grousemountain.com,Grouse Mountain Resorts,x,Local
+V17,meetings@tourismkamloops.com,Tourism Kamloops,x,Local
+V18,suzanne@sgtravelcom.com,Pacific Yacht Charters / PYC Catering,x,Local
+V19,klaferriere@mtl.org,Tourisme Montreal,x,Not Local
+V20,grace.williams@hilton.com,Four Points by Sheraton & Hampton Inn & Suites by Hilton Kelowna Airport,x,Local
+V21,jp@chairmanmills.com,Chair-man Mills Corp.,x,Local
